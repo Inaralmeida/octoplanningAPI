@@ -1,16 +1,588 @@
 {
-  "posts":[
+  "administracao": {
+    "cnpj": "12789456/0001-58",
+    "razaoSocial": "Almeida Dev",
+    "segmento": "tech",
+    "endereco": {
+      "cep": "08459557",
+      "UF": "SP",
+      "cidade": "São Paulo",
+      "logradouro": "Rua campo de piratininga",
+      "Numero": "299B"
+    }
+  },
+  "produtos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 24693,
+      "url": "https://a-static.mlcdn.com.br/618x463/pc-gamer-amd-a8-cpu-3-9ghz-8gb-placa-de-video-amd-radeon-hd-7560d-ssd-120gb-skill-casual/skill/50915/9b328aa1521d160d77609e5028a93da7.jpg",
+      "nome": "PC Gamer AMD A8 CPU 3.9Ghz 8GB ",
+      "descricao": "PC Gamer AMD A8 CPU 3.9Ghz 8GB Placa de vídeo AMD Radeon HD 7560D SSD 120GB Skill Casual. Elaborado para você que deseja iniciar a sua jornada gamer mas não dispõe do orçamento necessário para adquirir um PC Gamer de alto custo agora. Essa linha visa atender pessoas que querem jogar games casuais, como por exemplo League of Legends, Fallout, Age of empires, Team fortress, CS:GO, etc. Através da saída HDMI você poderá usufruir de boas resoluções para executar os seus jogos. Além disso curta um som de alta qualidade durante os jogos com a sua placa de som HD de 5.1 canais. Você ainda conta com um Gabinete Gamer de última geração, lateral transparente e conexões frontais. Uma grande vantagem é que TODOS, sim TODOS os computadores da série Casual contam com um SSD instalado. Isso garante a vocês um carregamento mais rápido do sistema e melhor desempenho nos jogos, pois SSDs podem ser até 10x mais rápidos que os HDs convencionais. O processador multi core da AMD A8-5600K conta com nada mais que 4 núcleos computacionais, além de placa de vídeo Radeon HD 7560D.",
+      "fornecedorID": 0,
+      "categoria": "CPU",
+      "marca": "Sansumg",
+      "valorBruto": 1076.99,
+      "valorVenda": 1575.24,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+    {
+      "id": 15421,
+      "url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1685156352",
+      "nome": "Smartphone Motorola Moto G100",
+      "descricao": "Se você procura um smartphone potente e confiável que nunca vai te deixar na mão, esse aparelho é o Moto G100 da Mororola. Ele é simplesmente incrível, também não é para menos, o processador é um Snapdragon 870 Octa Core, com 12 GB de RAM que permitem que você execute vários apps ao mesmo tempo e alterne facilmente entre eles sem nenhuma lentidão. Além ainda, de toda a velocidade do 5G embarcada nesse celular.",
+      "fornecedorID": 0,
+      "categoria": "celular",
+      "marca": "Motorola",
+      "valorBruto": 2000.99,
+      "valorVenda": 1540.54,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+    {
+      "id": 84692,
+      "url": "https://a-static.mlcdn.com.br/618x463/notebook-lenovo-ideapad-s145-81v70008br-amd-ryzen-5-3500u-8gb-256gb-ssd-156-windows-10/magazineluiza/225444200/160c68610236d03033aef7a0a1788b27.jpg",
+      "nome": "Notebook Lenovo Ideapad S145",
+      "descricao": "Notebook Lenovo Ideapad S145 81V70008BR - AMD Ryzen 5-3500U 8GB 256GB SSD 15,6 Windows 10. Pra você que busca um notebook para usar no trabalho ou mesmo para os momentos de entretenimento, a Lenovo apresenta o notebook Ideapad S145 81V70008BR.Com design compacto, ele tem abertura de 180o e tela LED antirreflexo de 15,6 com resolução HD.Conta processador AMD Ryzen 5-3500U, 8GB de memória RAM para que não tenha travamentos durante o uso, 256GB de SSD para armazenar todos os seus arquivos e sistema operacional Windows 10.E com apenas 1,85kg, é leve e prático para levar com você a qualquer lugar e ainda, possui teclado padrão ABNT com teclado numérico.",
+      "fornecedorID": 0,
+      "categoria": "notebook",
+      "marca": "Lenovo",
+      "preco": 2969.1,
+      "valorBruto": 2300.99,
+      "valorVenda": 2969.1,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+    {
+      "id": 32415,
+      "url": "https://a-static.mlcdn.com.br/618x463/pc-gamer-amd-a8-cpu-3-9ghz-8gb-placa-de-video-amd-radeon-hd-7560d-ssd-120gb-skill-casual/skill/50915/9b328aa1521d160d77609e5028a93da7.jpg",
+      "nome": "PC Gamer AMD A8 CPU 3.9Ghz 8GB ",
+      "descricao": "PC Gamer AMD A8 CPU 3.9Ghz 8GB Placa de vídeo AMD Radeon HD 7560D SSD 120GB Skill Casual. Elaborado para você que deseja iniciar a sua jornada gamer mas não dispõe do orçamento necessário para adquirir um PC Gamer de alto custo agora. Essa linha visa atender pessoas que querem jogar games casuais, como por exemplo League of Legends, Fallout, Age of empires, Team fortress, CS:GO, etc. Através da saída HDMI você poderá usufruir de boas resoluções para executar os seus jogos. Além disso curta um som de alta qualidade durante os jogos com a sua placa de som HD de 5.1 canais. Você ainda conta com um Gabinete Gamer de última geração, lateral transparente e conexões frontais. Uma grande vantagem é que TODOS, sim TODOS os computadores da série Casual contam com um SSD instalado. Isso garante a vocês um carregamento mais rápido do sistema e melhor desempenho nos jogos, pois SSDs podem ser até 10x mais rápidos que os HDs convencionais. O processador multi core da AMD A8-5600K conta com nada mais que 4 núcleos computacionais, além de placa de vídeo Radeon HD 7560D.",
+      "fornecedorID": 0,
+      "categoria": "CPU",
+      "marca": "Sansumg",
+      "valorBruto": 1076.99,
+      "valorVenda": 1575.24,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+    {
+      "id": 43547,
+      "url": "https://a-static.mlcdn.com.br/618x463/monitor-gamer-lg-29um69g-bawz-pro-gamer-29-led-full-hd-ultrawide-ips-hdmi-75khz-1ms/magazineluiza/218892500/f9d62ff9aec1deca7c1a186039cec168.jpg",
+      "nome": "Monitor Gamer LG 29UM69G-BAWZ Pro Gamer - 29” LED Full HD ",
+      "descricao": "O monitor gamer UltraWide Pro Gamer LCD LED IPS Full HD da LG não vai te deixar na mão na hora de enfrentar os games mais cascudos. São 29 polegadas e ele te oferece 30% mais tela widescreen para uma incrível imersão visual, dando a vantagem que você precisa para ganhar de seus adversários. O recurso 1ms Motion Blur Reduction permite que você tenha movimentos instantâneos e com a maior precisão através do tempo de resposta de 1ms. Sem falar no AMD FreeSyncTM, que elimina falhas de imagem que surgem da diferença entre a taxa de quadro da placa de vídeo e a taxa de atualização do monitor.Jogar games escuros já não é mais um problema! O Black Stabilizer ajusta o brilho automaticamente e dá aos jogadores visibilidade total. Agora os campers não vão te pegar de surpresa!Ele não para por aí. O Dynamic Action Sync garante um processamento mais rápido, para acompanhar a velocidade das suas habilidades.E tudo isso é completo com o Game Mode, que oferece um ambiente de jogos personalizado. É ou não é um monitor perfeito!",
+      "fornecedorID": 0,
+      "categoria": "Monitor",
+      "marca": "LG",
+      "valorBruto": 876.99,
+      "valorVenda": 1259.1,
+      "preco": 1259.1,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+    {
+      "id": 54125,
+      "url": "https://a-static.mlcdn.com.br/618x463/teclado-gamer-pro-k3-rgb-preto-fortrek/powinfinformatica/99c89070f94c11ebb8844201ac185013/95c068163a3fa4808e6a3b7907b7dec1.jpg",
+      "nome": "Teclado gamer pro k3 rgb preto fortrek",
+      "descricao": "Teclas multimídia: 12 teclas, Utilizar com a tecla FN - Anti-ghosting: Até 19 teclas - LEDs: RGB, 9 tipos de efeitos - Compatibilidade: Windows Vista/Win7/Win8/Win10 Mac Os X10.5 ou - superior - Operação: Não requer a instalação de driver para funcionamento (plug and play) CARACTERÍSTICASModelo: K3 RGBComprimento do Cabo: 1.5mConector: USBCor: PretoDimensões: 46.800 x 3.000 x 18.000 CMMarca: FORTREKNúmero de teclas: 107 TeclasPadrão: ABNT2Tipo: Gamer ProEAN: 7898554605771Un.Venda: PC/1Tempo de Garantia: 06 meses (já inclui garantia legal, Art.26, CDC)",
+      "fornecedorID": 0,
+      "categoria": "acessorios",
+      "marca": "fortrek",
+      "preco": 160.55,
+      "valorBruto": 106.99,
+      "valorVenda": 120.5,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
+    },
+
+    {
+      "id": 55479,
+      "url": "https://a-static.mlcdn.com.br/618x463/teclado-gamer-pro-k3-rgb-preto-fortrek/powinfinformatica/99c89070f94c11ebb8844201ac185013/95c068163a3fa4808e6a3b7907b7dec1.jpg",
+      "nome": "Teclado gamer pro k3 rgb preto fortrek",
+      "descricao": "Teclas multimídia: 12 teclas, Utilizar com a tecla FN - Anti-ghosting: Até 19 teclas - LEDs: RGB, 9 tipos de efeitos - Compatibilidade: Windows Vista/Win7/Win8/Win10 Mac Os X10.5 ou - superior - Operação: Não requer a instalação de driver para funcionamento (plug and play) CARACTERÍSTICASModelo: K3 RGBComprimento do Cabo: 1.5mConector: USBCor: PretoDimensões: 46.800 x 3.000 x 18.000 CMMarca: FORTREKNúmero de teclas: 107 TeclasPadrão: ABNT2Tipo: Gamer ProEAN: 7898554605771Un.Venda: PC/1Tempo de Garantia: 06 meses (já inclui garantia legal, Art.26, CDC)",
+      "fornecedorID": 0,
+      "categoria": "acessorios",
+      "marca": "fortrek",
+      "preco": 160.55,
+      "valorBruto": 106.99,
+      "valorVenda": 120.5,
+      "estoque": 50,
+      "vendido": 0,
+      "avaliacoes": []
     }
   ],
-  "comments" : [
+  "cupons": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nome": "PR1MEIRA_COMPRA",
+      "desconto": 0.3
+    },
+    {
+      "id": 0,
+      "nome": "INDIQUEI15",
+      "desconto": 0.15
+    },
+    {
+      "id": 0,
+      "nome": "NAT4L20",
+      "desconto": 0.2
+    }
+  ],
+  "marcas": [
+    {
+      "id": 1,
+      "nome": "Desconhecida"
+    },
+    {
+      "id": 2,
+      "nome": "Apple"
+    },
+    {
+      "id": 3,
+      "nome": "Microsoft"
+    },
+    {
+      "id": 4,
+      "nome": "Samsung"
+    },
+    {
+      "id": 5,
+      "nome": "Motorola"
+    },
+    {
+      "id": 15,
+      "nome": "LG"
+    },
+    {
+      "id": 6,
+      "nome": "Dell"
+    },
+    {
+      "id": 7,
+      "nome": "Lenovo"
+    },
+    {
+      "id": 8,
+      "nome": "Google"
+    },
+    {
+      "id": 9,
+      "nome": "Nikkon"
+    },
+    {
+      "id": 10,
+      "nome": "Playstation"
+    },
+    {
+      "id": 11,
+      "nome": "HP"
+    },
+    {
+      "id": 12,
+      "nome": "Toshiba"
+    },
+    {
+      "id": 13,
+      "nome": "Xiaomi"
+    },
+    {
+      "id": 14,
+      "nome": "Canon"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "Câmera",
+      "marcas": [
+        {
+          "id": "Canon"
+        },
+        {
+          "id": "Nikkon"
+        }
+      ]
+    },
+    {
+      "id": "Celular",
+      "marcas": [
+        {
+          "id": "Apple"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "Xiaomi"
+        },
+        {
+          "id": "Lenovo"
+        },
+        {
+          "id": "LG"
+        },
+        {
+          "id": "Motorola"
+        }
+      ]
+    },
+    {
+      "id": "Computador",
+      "marcas": [
+        {
+          "id": "Apple"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "Toshiba"
+        },
+        {
+          "id": "Lenovo"
+        },
+        {
+          "id": "LG"
+        },
+        {
+          "id": "HP"
+        },
+        {
+          "id": "Dell"
+        },
+        {
+          "id": "Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "Notebook",
+      "marcas": [
+        {
+          "id": "Apple"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "Toshiba"
+        },
+        {
+          "id": "Lenovo"
+        },
+        {
+          "id": "LG"
+        },
+        {
+          "id": "HP"
+        },
+        {
+          "id": "Dell"
+        },
+        {
+          "id": "Microsoft"
+        }
+      ]
+    },
+    {
+      "id": "Video-game",
+      "marcas": [
+        {
+          "id": "Playstation"
+        },
+        {
+          "id": "Microsoft"
+        },
+        {
+          "id": "Nintendo"
+        }
+      ]
+    },
+    {
+      "id": "Monitor",
+      "marcas": [
+        {
+          "id": "Sony"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "LG"
+        },
+        {
+          "id": "HP"
+        },
+        {
+          "id": "DELL"
+        },
+        {
+          "id": "Multilaser"
+        },
+        {
+          "id": "Philco"
+        }
+      ]
+    },
+    {
+      "id": "Fone de ouvido",
+      "marcas": [
+        {
+          "id": "Motorola"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "Xiaomi"
+        },
+        {
+          "id": "JBL"
+        },
+        {
+          "id": "Beats"
+        },
+        {
+          "id": "Multilaser"
+        },
+        {
+          "id": "Apple"
+        }
+      ]
+    },
+    {
+      "id": "Acessórios",
+      "marcas": [
+        {
+          "id": "Desconhecida"
+        },
+        {
+          "id": "Apple"
+        },
+        {
+          "id": "Microsoft"
+        },
+        {
+          "id": "Samsung"
+        },
+        {
+          "id": "Motorola"
+        },
+        {
+          "id": "LG"
+        },
+        {
+          "id": "Dell"
+        },
+        {
+          "id": "Lenovo"
+        },
+        {
+          "id": "Google"
+        },
+        {
+          "id": "Nikkon"
+        },
+        {
+          "id": "Playstation"
+        },
+        {
+          "id": "HP"
+        },
+        {
+          "id": "Toshiba"
+        },
+        {
+          "id": "Xiaomi"
+        },
+        {
+          "id": "Multilaser"
+        },
+        {
+          "id": "Canon"
+        }
+      ]
+    }
+  ],
+  "vendas": [
+    {
+      "nfp": 15487984571289900,
+      "itens": [
+        {
+          "produtoID": 1,
+          "quantidade": 5
+        }
+      ],
+      "clienteID": 0,
+      "cupom": "",
+      "valorTotal": 2899,
+      "data": "09/09/2021",
+      "horario": "21:15:23"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "inaralmeida",
+      "categoria": "cliente",
+      "pessoal": {
+        "nome": "Inara Regina de Almeida",
+        "CPF": "12345678911",
+        "email": "inara@gmail.com",
+        "nascimento": "10/09/1998",
+        "telefone": "",
+        "celular": "11954691425"
+      },
+      "logon": {
+        "username": "inaralmeida",
+        "senha": "123456789",
+        "token": "user-0000"
+      },
+      "endereco": {
+        "cep": "08459557",
+        "UF": "SP",
+        "cidade": "São Paulo",
+        "logradouro": "Rua campo de piratininga",
+        "Numero": "299B",
+        "complemento": ""
+      }
+    },
+    {
+      "id": "almeidaDev",
+      "categoria": "funcionario",
+      "pessoal": {
+        "nome": "Almeida Inara",
+        "CPF": "36512598744",
+        "email": "almeida.inara@example.com",
+        "nascimento": "20/10/1995",
+        "telefone": "22572547",
+        "celular": "9245614789",
+        "foto": "https://randomuser.me/api/portraits/women/61.jpg"
+      },
+      "logon": {
+        "username": "almeidaDev",
+        "senha": "123456789",
+        "token": "adm-1745e7"
+      },
+      "endereco": {
+        "cep": "08459557",
+        "UF": "SP",
+        "cidade": "São Paulo",
+        "logradouro": "Rua campo de piratininga",
+        "Numero": "299B"
+      },
+      "profissional": {
+        "cargo": "administrador",
+        "salario": 3500,
+        "escala": "6x1",
+        "horasSemanais": 40,
+        "admissao": "15/03/2019",
+        "demissao": "",
+        "complemento": ""
+      }
+    },
+    {
+      "id": "yellowpeacock641",
+      "categoria": "funcionario",
+      "pessoal": {
+        "nome": "Cris James Williams",
+        "CPF": "24685175900",
+        "email": "beatrice.monteiro@example.com",
+        "nascimento": "08/09/1985",
+        "telefone": "9361-5736",
+        "celular": "0223-1369",
+        "foto": "https://randomuser.me/api/portraits/women/61.jpg"
+      },
+      "logon": {
+        "username": "yellowpeacock641",
+        "senha": "123456789",
+        "token": "gerente-190eb8b6"
+      },
+      "endereco": {
+        "cep": "53962557",
+        "UF": "SP",
+        "cidade": "São Paulo",
+        "logradouro": "Rua Piauí",
+        "Numero": "715",
+        "complemento": ""
+      },
+      "profissional": {
+        "cargo": "gerente",
+        "salario": 2500,
+        "escala": "6x1",
+        "horasSemanais": 40,
+        "admissao": "07/04/2020",
+        "demissao": ""
+      }
+    },
+    {
+      "id": "smallbear455",
+      "categoria": "funcionario",
+      "pessoal": {
+        "nome": "Djalme Gonçalves",
+        "CPF": "12645681000",
+        "email": "djalme.goncalves@example.com",
+        "nascimento": "02/05/1983",
+        "telefone": "33740284",
+        "celular": "95435242",
+        "foto": "https://randomuser.me/api/portraits/men/79.jpg"
+      },
+      "logon": {
+        "username": "smallbear455",
+        "senha": "123456789",
+        "token": "funcionario-48c33e54"
+      },
+      "endereco": {
+        "cep": "53937388",
+        "UF": "SP",
+        "cidade": "São Paulo",
+        "logradouro": "Rua da Saudade",
+        "Numero": "2386",
+        "complemento": ""
+      },
+      "profissional": {
+        "cargo": "vendedor",
+        "salario": 1200,
+        "escala": "5x2",
+        "horasSemanais": 40,
+        "admissao": "08/05/2021",
+        "demissao": ""
+      }
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": "Kalunga"
+    },
+    {
+      "id": "FastShop"
+    },
+    {
+      "id": "Casas Bahia"
+    },
+    {
+      "id": "Magazine Luiza"
+    },
+    {
+      "id": "Pernanbucanas"
+    },
+    {
+      "id": "Motorola"
+    },
+    {
+      "id": "Samsung"
+    },
+    {
+      "id": "Apple"
+    },
+    {
+      "id": "DELL"
+    },
+    {
+      "id": "Multilaser"
     }
   ]
 }
