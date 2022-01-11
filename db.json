@@ -13,20 +13,6 @@
   },
   "produtos": [
     {
-      "id": 24693,
-      "url": "https://a-static.mlcdn.com.br/618x463/pc-gamer-amd-a8-cpu-3-9ghz-8gb-placa-de-video-amd-radeon-hd-7560d-ssd-120gb-skill-casual/skill/50915/9b328aa1521d160d77609e5028a93da7.jpg",
-      "nome": "PC Gamer AMD A8 CPU 3.9Ghz 8GB ",
-      "descricao": "PC Gamer AMD A8 CPU 3.9Ghz 8GB Placa de vídeo AMD Radeon HD 7560D SSD 120GB Skill Casual. Elaborado para você que deseja iniciar a sua jornada gamer mas não dispõe do orçamento necessário para adquirir um PC Gamer de alto custo agora. Essa linha visa atender pessoas que querem jogar games casuais, como por exemplo League of Legends, Fallout, Age of empires, Team fortress, CS:GO, etc. Através da saída HDMI você poderá usufruir de boas resoluções para executar os seus jogos. Além disso curta um som de alta qualidade durante os jogos com a sua placa de som HD de 5.1 canais. Você ainda conta com um Gabinete Gamer de última geração, lateral transparente e conexões frontais. Uma grande vantagem é que TODOS, sim TODOS os computadores da série Casual contam com um SSD instalado. Isso garante a vocês um carregamento mais rápido do sistema e melhor desempenho nos jogos, pois SSDs podem ser até 10x mais rápidos que os HDs convencionais. O processador multi core da AMD A8-5600K conta com nada mais que 4 núcleos computacionais, além de placa de vídeo Radeon HD 7560D.",
-      "fornecedorID": 0,
-      "categoria": "CPU",
-      "marca": "Sansumg",
-      "valorBruto": 1076.99,
-      "valorVenda": 1575.24,
-      "estoque": 50,
-      "vendido": 0,
-      "avaliacoes": []
-    },
-    {
       "id": 15421,
       "url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1685156352",
       "nome": "Smartphone Motorola Moto G100",
@@ -35,7 +21,7 @@
       "categoria": "celular",
       "marca": "Motorola",
       "valorBruto": 2000.99,
-      "valorVenda": 1540.54,
+      "valorVenda": 2540.54,
       "estoque": 50,
       "vendido": 0,
       "avaliacoes": []
@@ -99,38 +85,40 @@
       "vendido": 0,
       "avaliacoes": []
     },
-
     {
-      "id": 55479,
-      "url": "https://a-static.mlcdn.com.br/618x463/teclado-gamer-pro-k3-rgb-preto-fortrek/powinfinformatica/99c89070f94c11ebb8844201ac185013/95c068163a3fa4808e6a3b7907b7dec1.jpg",
-      "nome": "Teclado gamer pro k3 rgb preto fortrek",
-      "descricao": "Teclas multimídia: 12 teclas, Utilizar com a tecla FN - Anti-ghosting: Até 19 teclas - LEDs: RGB, 9 tipos de efeitos - Compatibilidade: Windows Vista/Win7/Win8/Win10 Mac Os X10.5 ou - superior - Operação: Não requer a instalação de driver para funcionamento (plug and play) CARACTERÍSTICASModelo: K3 RGBComprimento do Cabo: 1.5mConector: USBCor: PretoDimensões: 46.800 x 3.000 x 18.000 CMMarca: FORTREKNúmero de teclas: 107 TeclasPadrão: ABNT2Tipo: Gamer ProEAN: 7898554605771Un.Venda: PC/1Tempo de Garantia: 06 meses (já inclui garantia legal, Art.26, CDC)",
-      "fornecedorID": 0,
-      "categoria": "acessorios",
-      "marca": "fortrek",
-      "preco": 160.55,
-      "valorBruto": 106.99,
-      "valorVenda": 120.5,
+      "id": 17754,
+      "nome": "Câmera Fotográfica dslr eos 4000D ef-s 18-55 dc iii canon",
+      "url": "https://images-americanas.b2w.io/produtos/3143225012/imagens/camera-fotografica-dslr-eos-4000d-ef-s-18-55-dc-iii-canon/3143225012_1_xlarge.jpg",
+      "descricao": "A eos 4000D da Canon é um lugar fantástico para começar a experimentar a fotografia dslr, sendo ideal para aqueles que desejam sair da fotografia com smartphones. Um sensor de 18 mp oferece um nível rico de detalhes e cores gloriosas, com potencial para fundos lindamente desfocados graças ao excelente controle de profundidade de campo. Grave filmes Full HD cinematográficos e compartilhe seu trabalho online com facilidade com o Wi-Fi integrado.\nSuper Sensor\nUm sensor aps-c de 18 mp embala a imagem com detalhes finos. é capaz de uma profundidade de campo ótima para retratos de estilo profissional com assuntos nítidos e fundos desfocados com elegância.\nLente de kit\n18-55 mm versátil A lente 18-55 mm incluída da Canon é um presente versátil que o ajudará a trabalhar com grande precisão. à medida que o zoom ótico 3x aproxima você de seu assunto onde quer que você esteja, a grande faixa de abertura f3.5 - f5.6 oferece belas fotos de paisagens e retratos.",
+      "categoriaId": "Câmera",
+      "valorBruto": 3000,
+      "valorVenda": 3799.99,
       "estoque": 50,
-      "vendido": 0,
-      "avaliacoes": []
+      "adicionadoEm": "30/09/2021",
+      "fornecedorID": "Casas Bahia",
+      "marcaId": "Canon"
     }
   ],
   "cupons": [
     {
-      "id": 0,
-      "nome": "PR1MEIRA_COMPRA",
-      "desconto": 0.3
-    },
-    {
-      "id": 0,
-      "nome": "INDIQUEI15",
+      "id": 67379,
+      "nome": "NAT4L15",
       "desconto": 0.15
     },
     {
-      "id": 0,
-      "nome": "NAT4L20",
-      "desconto": 0.2
+      "id": 87709,
+      "nome": "AQUEL3INCENTIVO40",
+      "desconto": 0.4
+    },
+    {
+      "id": 45282,
+      "nome": "PR1ME31RA_COMPRA25",
+      "desconto": 0.25
+    },
+    {
+      "id": 77443,
+      "nome": "IND1QUEI5",
+      "desconto": 0.05
     }
   ],
   "marcas": [
@@ -408,20 +396,41 @@
       ]
     }
   ],
+  "caixas": [
+    {
+      "id": 154879,
+      "data": "09/09/2021",
+      "idFuncionario": "smallbear455",
+      "valorInicial": 100,
+      "valorFinal": 5081.08,
+      "totalVendas": 1,
+      "Valorfinal": 5381.08,
+      "lucro": 1079.10,
+      "valorAdicionado": [
+        {
+          "hora": "14:32:25",
+          "valor": 200
+        }
+      ]
+      
+    }
+  ],
   "vendas": [
     {
+      "id": 84571,
+      "idCaixa": 154879,
       "nfp": 15487984571289900,
+      "clienteCpf": "",
+      "desconto": 0,
+      "valorTotal": 5081.08,
+      "lucro": 1079.10,
+      "data": "09/09/2021",
       "itens": [
         {
-          "produtoID": 1,
-          "quantidade": 5
+          "produtoID": 15421,
+          "quantidade": 2
         }
-      ],
-      "clienteID": 0,
-      "cupom": "",
-      "valorTotal": 2899,
-      "data": "09/09/2021",
-      "horario": "21:15:23"
+      ]
     }
   ],
   "usuarios": [
